@@ -1,7 +1,5 @@
 # Política de privacidad de Multi Games by Ligras
 
-> **BORRADOR. No es asesoramiento legal.** Completá los datos marcados con `[COMPLETAR]`, revisala con alguien que conozca la normativa de tu país y publicala en una dirección web pública (por ejemplo, una página de GitHub Pages o tu sitio). Esa dirección es la que va en la ficha de Google Play y dentro de la app (menú "Privacidad"). Está escrita para el caso en que la app **no** está dirigida a menores de 13 años (decisión D-1 del informe de seguridad); si cambia, hay que reescribir la sección 7.
-
 **Última actualización:** 6 de Noviembre de 2026
 
 **Responsable:** Paez David Agustin

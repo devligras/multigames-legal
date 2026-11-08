@@ -1,7 +1,5 @@
 # Términos y condiciones de uso de Multi Games by Ligras
 
-> **BORRADOR. No es asesoramiento legal.** Revisalo con un abogado o contador de tu país antes de publicarlo (en especial las secciones 8 y 9) y publicalo en una dirección web pública junto con la política de privacidad. Si la app suma compras, cuentas, ranking en línea o contenido de usuarios, hay que ampliarlo.
-
 **Última actualización:** 6 de Noviembre de 2026
 
 **Responsable:** Paez David Agustin ("nosotros")
